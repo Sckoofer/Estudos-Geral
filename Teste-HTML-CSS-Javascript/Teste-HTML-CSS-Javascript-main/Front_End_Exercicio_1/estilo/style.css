@@ -1,0 +1,38 @@
+body#corpo{ 
+    font: normal 25pt Arial;
+    
+   
+}
+div#mensagem{
+    color: white;
+    background: #91c0da69;
+    text-align: center;
+    width: 440px;
+    font: normal 35pt Arial;
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.596);
+    margin: auto;
+    border-radius: 10px;
+
+    /*Adiciona contorno nas letras*/
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+    
+}
+div#AppearsHoras{
+    color: white;
+    background: #5E5455;
+    text-align: center;
+    width: 150px;
+    border-radius: 10px;
+    margin: auto;
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.466);
+}
+
+div#display{
+    width: 410px;
+    margin: auto;
+}
+img#imagem{
+    border-radius: 10px;
+    box-shadow: 3px 5px 10px black;
+}

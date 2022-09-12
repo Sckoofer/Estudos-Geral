@@ -1,0 +1,46 @@
+body#primeirobody{
+    background-image: url("Fundo_1_desfocado.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+body#segundobody{
+    background-image: url("Fundo_2_redimensionado.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+body#terceirobody{
+    background-image: url("Fundo_3_redimensionado.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+div#posicionarimagemaesquerda{
+    float: left;
+    margin: 130px;
+    width: 330px;
+}
+
+img#primeiraimagem{
+    border-radius: 10px;
+    box-shadow: 3px 5px 10px rgb(99, 96, 96);
+}
+
+p#caixadetexto{
+    font-family: Georgia, serif;
+    font-style:bold;
+    font-size:  34px;
+    
+    color: black;
+    padding: 150px;
+
+}
+a{
+    margin: auto;
+    padding: 150px;
+}

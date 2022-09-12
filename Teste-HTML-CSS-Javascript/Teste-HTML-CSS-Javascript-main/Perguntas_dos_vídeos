@@ -1,0 +1,42 @@
+Perguntas:
+1) Sabe qual a diferença entre um cliente e um servidor para a Internet?
+2) Para que serve HTML, CSS e JavaScript?
+3) Cite 4 sites que fazem uso do JavaScript?
+4) Sabe que empresa criou o JavaScript?
+5) Java e JavaScript possuem alguma relação?
+6) O que ECMAScript tem a ver com JavaScript?
+7) Sabe diferenciar HTML5, CSS3 e JavaScript dentro de um código?
+8) Sabe disparar alertas, confirmações e perguntas?
+9) O que é uma variável?
+10) Como declarar uma variável numérica Inteira ou Real usando JavaScript?
+11) Quais são os tipos primitivos do JavaScript?
+12) O que significa colocar o valor NULL dentro de uma variável?
+13) Como é possível guardar o valor digitado em um prompt() dentro de uma variável?
+14) Como fazer com que um número digitado em um prompt() possa ser usado em cálculos?
+15) Como transformar um texto todo para letras MAIÚSCULAS?
+16) Como mostrar um número formatao como um valor monetário?
+17) Para que serve o operador % em JavaScript?
+18) 6 + 4 / 2 = ?
+19) Se uma variável N está valendo 10 e executamos um n += 5, qual será o seu valor?
+20) Para queservem os operadores ++ e --?
+21) Qual é a diferença entre usar =, == e  === em códigos escritos em JavaScript?
+22) Em uma mesma expressão, temos os operadores || e &&. Qual será resolvido primeiro?
+23) Sabe usar o operador ternário para colocar um entre dois valores em uma variável?
+24) O que significa a sigla DOM?
+25) Sabe montar a árvore DOM de um website simples?
+26) O que são os elementos Parent e os elementos Child em uma árvore DOM?
+27) Quais são os cinco principais métodos de selecionar elementos DOM dentro do JavaScript?
+28) Consegue citar três eventos que podem acontecer com elementos DOM de um site?
+29) O que é uma função? Como criar funções em JavaScript?
+30) Sabe como pegar valores de caixas de texto e fazer cálculos com eles?
+31) Sabe criar uma condição em seu programa JavaScript?
+32) Consegue diferenciar condiçõe simples e as condições compostas?
+33) Sabe mudar a cor de fundo de um site dinamicamente, usando Javascript?
+34) Consegue inserir uma imagem dentro do seu site sem ter a tag <tag> previamente criada?
+35) Como fazemos para fazer uma determinada atividade  acontecer várias vezes?
+36) Sabe diferenciar as estruturas de condição e as estruturas de repetição?
+37) Qual a diferença entre while e do..while?
+38) Qual a opção ao invés do Watch in Chrome?  Abrir é CTRL + ALT + R
+39) Como usar o modo de depuração?
+40) Como colocar um array em ordem usando chamada de função?
+41) Respondeu todas as perguntas acima e realizou as atividades?
